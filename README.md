@@ -30,6 +30,7 @@ AdaBoost
 Naïve Bayes
 Logistic Regression
 Artificial Neural Network (ANN)
+
 🔹 Deep Learning Models
 Recurrent Neural Network (RNN)
 Long Short-Term Memory (LSTM)
